@@ -1,0 +1,25 @@
+{
+  "name": "automatic-sass",
+  "version": "1.0.0",
+  "description": "automatic grunt machine",
+  "main": "index.js",
+  "scripts": {
+    "test": "sass"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u0016https://github.com/m-kid/automatic-sass"
+  },
+  "keywords": [
+    "sass",
+    "grunt"
+  ],
+  "author": "Maciej Kidawa",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-imagemin": "^1.0.1",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-sass": "^1.2.1"
+  }
+}
